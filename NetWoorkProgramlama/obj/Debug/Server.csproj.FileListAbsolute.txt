@@ -1,0 +1,13 @@
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\NetWoorkProgramlama\bin\Debug\NetWoorkProgramlama.exe.config
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\NetWoorkProgramlama\bin\Debug\NetWoorkProgramlama.exe
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\NetWoorkProgramlama\bin\Debug\NetWoorkProgramlama.pdb
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\NetWoorkProgramlama\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\NetWoorkProgramlama\obj\Debug\NetWoorkProgramlama.MainServer.resources
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\NetWoorkProgramlama\obj\Debug\NetWoorkProgramlama.Properties.Resources.resources
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\NetWoorkProgramlama\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\NetWoorkProgramlama\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\NetWoorkProgramlama\obj\Debug\NetWoorkProgramlama.exe
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\NetWoorkProgramlama\obj\Debug\NetWoorkProgramlama.pdb
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\NetWoorkProgramlama\bin\Debug\Collective.dll
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\NetWoorkProgramlama\bin\Debug\Collective.pdb
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\NetWoorkProgramlama\obj\Debug\Server.csproj.CopyComplete

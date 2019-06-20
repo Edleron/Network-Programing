@@ -1,0 +1,6 @@
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\Collective\bin\Debug\Collective.dll
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\Collective\bin\Debug\Collective.pdb
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\Collective\obj\Debug\Collective.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\Collective\obj\Debug\Collective.dll
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\Collective\obj\Debug\Collective.pdb
+C:\Users\C4_Ozgur\source\repos\NetWoorkProgramlama\Collective\obj\Debug\Collective.csprojAssemblyReference.cache
